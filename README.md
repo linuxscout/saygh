@@ -1,0 +1,2 @@
+# saygh
+Arabic morphological generator 
